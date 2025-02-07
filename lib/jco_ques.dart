@@ -83,17 +83,17 @@ class _JCOQuesState extends State<JCOQues> {
       Container(
         child:
         Padding(
-          padding: const EdgeInsets.all(15.0),
+          padding: const EdgeInsets.all(10.0),
           child: Column(
             children: [
-              // Container(
-              //   decoration: BoxDecoration(
-              //     borderRadius: BorderRadius.all(Radius.circular(10)),
-              //     color: Colors.blue.shade900,
-              //   ),
-              //   child:
-              //   Text('  ALL QUES FOR OFFRS(AS PER 2024)  ', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white),),
-              // ),
+              Container(
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.all(Radius.circular(10)),
+                  color: Colors.blue.shade900,
+                ),
+                child:
+                Text('  QUES FOR JCO  ', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white),),
+              ),
               TextField(
                   onChanged: (value) => _filterWords(value),
                   cursorColor: Colors.black,
@@ -118,7 +118,7 @@ class _JCOQuesState extends State<JCOQues> {
                     return Card(
                       key: ValueKey(foundAbbr[index]),
                       elevation: 5,
-                      margin: const EdgeInsets.symmetric(vertical: 8),
+                      margin: const EdgeInsets.symmetric(vertical: 6),
                       child: ListTile(
                         leading: Text(foundAbbr[index][0].toString()),
                         title: Text(foundAbbr[index][1].replaceAll(RegExp('  '), '_')),
@@ -136,7 +136,7 @@ class _JCOQuesState extends State<JCOQues> {
                             ),
                             // Text(foundAbbr[index][2],
                             //   style: const TextStyle( color: Colors.green, fontWeight: FontWeight.bold)),
-                            Text("Ans: "+ foundAbbr[index][3], style: const TextStyle( color: Colors.red, fontWeight: FontWeight.bold))
+                            Text("Ans: "+ foundAbbr[index][3].toString(), style: const TextStyle( color: Colors.red, fontWeight: FontWeight.bold))
                           ],
                         ),
                         // trailing: Text(foundWords[index]['id'].toString()),

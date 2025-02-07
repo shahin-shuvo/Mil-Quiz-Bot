@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:mil_quiz_bot/offrs_ques.dart';
 import 'package:mil_quiz_bot/jco_ques.dart';
+import 'package:mil_quiz_bot/nco_ques.dart';
 import 'package:mil_quiz_bot/quiz.dart';
 import 'package:mil_quiz_bot/prac_abbr.dart';
 import 'package:mil_quiz_bot/CustomAppBar.dart';
@@ -31,6 +32,7 @@ class _LandingPageState extends State<LandingPage> {
   final screens = [
     OffrsQues(),
     JCOQues(),
+    NCOQues(),
     PracAbbr(),
     Quiz()
   ];
@@ -55,9 +57,13 @@ class _LandingPageState extends State<LandingPage> {
             onDestinationSelected: (navIndex) =>
                 setState(() => this.navIndex = navIndex),
             destinations: [
-              NavigationDestination(icon: Icon(Icons.book), label: 'OFFRS', ),
-              NavigationDestination(icon: Icon(Icons.change_circle_sharp), label: 'JCO'),
-              NavigationDestination(icon: Icon(Icons.engineering), label: 'NCO'),
+              NavigationDestination(icon: const ImageIcon(
+                  AssetImage('assets/images/offr.png')), label: 'OFFRS', ),
+              NavigationDestination(icon: const ImageIcon(
+                  AssetImage('assets/images/jco.png')), label: 'JCO'),
+              NavigationDestination(icon: const ImageIcon(
+                  AssetImage('assets/images/nco.png')), label: 'NCO'),
+              NavigationDestination(icon: Icon(Icons.engineering), label: 'PRAC'),
               NavigationDestination(icon: Icon(Icons.menu_book), label: 'QUIZ'),
 
             ],

@@ -1,22 +1,25 @@
+import 'dart:convert';
+
 import 'package:csv/csv.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-class OffrsQues extends StatefulWidget {
-  const OffrsQues({super.key});
+class NCOQues extends StatefulWidget {
+  const NCOQues({super.key});
 
   @override
-  State<OffrsQues> createState() => _OffrsQuesState();
+  State<NCOQues> createState() => _NCOQuesState();
 }
 
-class _OffrsQuesState extends State<OffrsQues> {
+class _NCOQuesState extends State<NCOQues> {
 
   List<List<dynamic>> _data = [];
   List<List<dynamic>> foundAbbr = [];
   List splitted = [];
 
- void _loadCSV()  async {
-    final _rawData =  await rootBundle.loadString("assets/data/offrs_ques.csv");
+  void _loadCSV()  async {
+    final _rawData =  await rootBundle.loadString("assets/data/nco_ques.csv");
+
     List<List<dynamic>> _listData =
     const CsvToListConverter().convert(_rawData);
     setState(() {
@@ -44,16 +47,16 @@ class _OffrsQuesState extends State<OffrsQues> {
     else{
       resultAbbr = _data.where(
               (element) =>
-              (
-                  element[1].toLowerCase().startsWith(key.trim().toLowerCase())
-              )
+          (
+              element[1].toLowerCase().startsWith(key.trim().toLowerCase())
+          )
       ).toList();
 
       if (resultAbbr.isEmpty){
         resultAbbr = _data.where(
                 (element) =>
-                    ( element[2].toLowerCase().startsWith(key.trim().toLowerCase())
-                    )
+            ( element[2].toLowerCase().startsWith(key.trim().toLowerCase())
+            )
         ).toList();
       }
       if (resultAbbr.isEmpty){
@@ -77,7 +80,7 @@ class _OffrsQuesState extends State<OffrsQues> {
     return Scaffold(
       backgroundColor: const Color(0xFFFFFFFF),
       body:
-        Container(
+      Container(
         child:
         Padding(
           padding: const EdgeInsets.all(10.0),
@@ -89,23 +92,23 @@ class _OffrsQuesState extends State<OffrsQues> {
                   color: Colors.blue.shade900,
                 ),
                 child:
-                Text('  QUES FOR OFFRS  ', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white),),
+                Text('  QUES FOR NCO  ', style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white),),
               ),
               TextField(
-                onChanged: (value) => _filterWords(value),
-                cursorColor: Colors.black,
-                style: const TextStyle(color: Colors.black),
-                decoration: const InputDecoration(
-                  labelText: "Search Here",
-                  labelStyle: TextStyle(
-                    color: Colors.black26,
-                    fontWeight: FontWeight.bold,
-                    letterSpacing: 3,
-                    fontSize: 15,
-                  ),
-                    suffixIcon: Icon(Icons.search, color: Colors.black),
-                    prefixIcon: Icon(Icons.list, color: Colors.black,)
-                )
+                  onChanged: (value) => _filterWords(value),
+                  cursorColor: Colors.black,
+                  style: const TextStyle(color: Colors.black),
+                  decoration: const InputDecoration(
+                      labelText: "Search Here",
+                      labelStyle: TextStyle(
+                        color: Colors.black26,
+                        fontWeight: FontWeight.bold,
+                        letterSpacing: 3,
+                        fontSize: 15,
+                      ),
+                      suffixIcon: Icon(Icons.search, color: Colors.black),
+                      prefixIcon: Icon(Icons.list, color: Colors.black,)
+                  )
               ),
 
               Expanded(child: foundAbbr.isNotEmpty ?
@@ -133,7 +136,7 @@ class _OffrsQuesState extends State<OffrsQues> {
                             ),
                             // Text(foundAbbr[index][2],
                             //   style: const TextStyle( color: Colors.green, fontWeight: FontWeight.bold)),
-                            Text("Ans: "+ foundAbbr[index][3], style: const TextStyle( color: Colors.red, fontWeight: FontWeight.bold))
+                            Text("Ans: "+ foundAbbr[index][3].toString(), style: const TextStyle( color: Colors.red, fontWeight: FontWeight.bold))
                           ],
                         ),
                         // trailing: Text(foundWords[index]['id'].toString()),
@@ -161,6 +164,6 @@ class _OffrsQuesState extends State<OffrsQues> {
 
     return list;
   }
-  }
+}
 
 
