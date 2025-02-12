@@ -64,7 +64,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
                       width: MediaQuery.of(context).size.width,
                       decoration: BoxDecoration(
                         gradient: LinearGradient(colors: [
-                          Color(0xff145A32 ),
+                          Color(0xffd5e7dd),
                           Color(0xff85C1E9),
                         ]),
                       ),

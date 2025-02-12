@@ -28,9 +28,9 @@ class _QuizState extends State<Quiz> {
                       Card(
                           color: Colors.green,
                           child: _DataCard(
-                            title: '10 QUESTIONS',
-                            type: 'ABBR',
-                            subTitle: "5 MINUTES",
+                            title: '25 QUESTIONS',
+                            type: 'OFFRS',
+                            subTitle: "25 MINUTES",
                             button: FilledButton(
                               style:  FilledButton.styleFrom(backgroundColor: Colors.amber),
                               onPressed: () {
@@ -41,11 +41,11 @@ class _QuizState extends State<Quiz> {
                           )
                       ),
                       Card(
-                          color: Color(0xff1E145A),
+                          color: Colors.green, //Color(0xff1E145A),
                           child: _DataCard(
-                            title: '20 QUESTIONS',
-                            type: 'ABBR',
-                            subTitle: "10 MINUTES",
+                            title: '50 QUESTIONS',
+                            type: 'OFFRS',
+                            subTitle: "50 MINUTES",
                             button: FilledButton(
                                 style:  FilledButton.styleFrom(backgroundColor: Colors.amber),
                                 onPressed: () {
@@ -63,9 +63,9 @@ class _QuizState extends State<Quiz> {
                           Card(
                             color: Color(0xff281537),
                               child: _DataCard(
-                                title: '10 QUESTIONS',
-                                type: 'DEABBR',
-                                subTitle: "5 MINUTES",
+                                title: '25 QUESTIONS',
+                                type: 'JCO',
+                                subTitle: "25 MINUTES",
                                 button: FilledButton(
                                   style:  FilledButton.styleFrom(backgroundColor: Colors.amber),
                                     onPressed: () {
@@ -75,11 +75,11 @@ class _QuizState extends State<Quiz> {
                               )
                           ),
                           Card(
-                              color: Color(0xffB81736),
+                              color: Color(0xff281537),
                               child: _DataCard(
-                                title: '20 QUESTIONS',
-                                type: 'DEABBR',
-                                subTitle: "10 MINUTES",
+                                title: '50 QUESTIONS',
+                                type: 'JCO',
+                                subTitle: "50 MINUTES",
                                 button: FilledButton(
 
                                     onPressed: () {
@@ -90,7 +90,42 @@ class _QuizState extends State<Quiz> {
                               )
                           ),
                   ],
+                ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Card(
+                        color: Color(0xff1E145A),
+                        child: _DataCard(
+                          title: '25 QUESTIONS',
+                          type: 'NCO',
+                          subTitle: "25 MINUTES",
+                          button: FilledButton(
+                              style:  FilledButton.styleFrom(backgroundColor: Colors.amber),
+                              onPressed: () {
+                                Navigator.push(context, MaterialPageRoute(builder: (context) => ExamScript(ques: 10, type: "deabbr", isWrongVis: List.filled(10, false, growable: false))),);
+
+                              }, child: const Text('Get Started', style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),)),
+                        )
+                    ),
+                    Card(
+                        color: Color(0xff1E145A),
+                        child: _DataCard(
+                          title: '50 QUESTIONS',
+                          type: 'NCO',
+                          subTitle: "50 MINUTES",
+                          button: FilledButton(
+
+                            onPressed: () {
+                              Navigator.push(context, MaterialPageRoute(builder: (context) => ExamScript(ques: 20, type: "deabbr", isWrongVis: List.filled(20, false, growable: false))),);
+                            },
+                            child: const Text('Get Started', style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),),
+                            style:  FilledButton.styleFrom(backgroundColor: Colors.amber),),
+                        )
+                    ),
+                  ],
                 )
+
               ],
             ),
           ),

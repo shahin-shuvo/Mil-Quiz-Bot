@@ -133,7 +133,7 @@ class _OffrsQuesState extends State<OffrsQues> {
                             ),
                             // Text(foundAbbr[index][2],
                             //   style: const TextStyle( color: Colors.green, fontWeight: FontWeight.bold)),
-                            Text("Ans: "+ foundAbbr[index][3], style: const TextStyle( color: Colors.red, fontWeight: FontWeight.bold))
+                            Text("Ans: "+ foundAbbr[index][3].toString(), style: const TextStyle( color: Colors.red, fontWeight: FontWeight.bold))
                           ],
                         ),
                         // trailing: Text(foundWords[index]['id'].toString()),

@@ -354,92 +354,652 @@
 353,"As per the duties and responsibilities laid down in AR(I); training and efficiency for war,                  and                    are the main responsibilities of Commander.",,"leadership, Adminstration."
 354,Airing of grievances and expression of views through the press is     and will constitute an offence under the BAA.,,Forbidden.
 355,"Possession of more than one Defence Service ID cards by an officer/Junior Commission Officers/Other Ranks  at the same time, is a ___________.",,Penal offence.
-356,,,
-357,,,
-358,,,
-359,,,
-360,,,
-361,,,
-362,,,
-363,,,
-364,,,
-365,,,
-366,,,
-367,,,
-368,,,
-369,,,
-370,,,
-371,,,
-372,,,
-373,,,
-374,,,
-375,,,
-376,,,
-377,,,
-378,,,
-379,,,
-380,,,
-381,,,
-382,,,
-383,,,
-384,,,
-385,,,
-386,,,
-387,,,
-388,,,
-389,,,
-390,,,
-391,,,
-392,,,
-393,,,
-394,,,
-395,,,
-396,,,
-397,,,
-398,,,
-399,,,
-400,,,
-401,,,
-402,,,
-403,,,
-404,,,
-405,,,
-406,,,
-407,,,
-408,,,
-409,,,
-410,,,
-411,,,
-412,,,
-413,,,
-414,,,
-415,,,
-416,,,
-417,,,
-418,,,
-419,,,
-420,,,
-421,,,
-422,,,
-423,,,
-424,,,
-425,,,
-426,,,
-427,,,
-428,,,
-429,,,
-430,,,
-431,,,
-432,,,
-433,,,
-434,,,
-435,,,
-436,,,
-437,,,
-438,,,
-439,,,
-440,,,
-441,,,
-442,,,
-443,,,
-444,,,
+356,"Regimental postings, except the Commanding Officers and the Second In Command, are normally to units, the actual appointment being left to the discretion of the ___________, unless specified otherwise in the",,"Commanding officer, posting orders."
+357,A     will also become a dining member of a mess when no member of his family is residing at the station.,,Married officer.
+358,An officer whether sick in hospital or quarters will not    his place of treatment except for such exercise as may be ordered by his appointee medical attendant.,,Leave.
+359,"An officer is _________ to write private letter to officer at AHQ to officials on pesonal matters, such as promotion, appointment, posting, transfer.",,Forbidden.
+360,"In cases of overstay of leave, the report may be deferred at the discretion of the OC unit for a maximum of                  , or longer where are floods or other calamity in the area where the soldier/NC(E) is spending his leave.",,14 days.
+361,"Officers are forbidden to write private letters to officials in the       and    on personnel service matters such as promotion, appointment posting, transfer etc.",,"Government, Army Headquarters."
+362,"When it is necessary to hold a parade for the purpose of identifying an   , the parade should be held under the direction and in the presence of an officer. ",,alleged offender.
+363,"Rigorous imprisonment exceeding             awarded by a court martial (except as provided for in Section 136 AA) and irrespective of the period, rigorous imprisonment by a civil court, is undergone in a civil Jail.",,three months.
+364,The regimental and private fund accounts of every unit will be examined at least once a                   by the               who will record the result of the  examination in the account book concerned.,,"month,  CO."
+365,"In exceptional cases, where due to shortage of officers, even captains are not available, the Div/ Sub Area/Indep Bde Commander  or equivalent may authorize a    to be detailed as a         .",,"subaltern,  Garrison Field Officer. "
+366,"In addition to the authorised number of each rank/appointment laid down in the sanctioned establishment, Commanding Officers are permitted to make   lance appointments at their discreption.",,Unpaid.
+367,Regimental quarterly audit boards are meant to see that all accounts placed before them have been      and    maintained.,,"properly, accurately."
+368,"To be eligible for the grant of honorary rank of Warrant Officer on retirement under AR(R) 661, for meritorious service, a Sergeant with 24 years pensionable service must have                 service in the rank of Sergeant except Clerks.",,3 years.
+369,When the authorized occupant of a flagged car leaves it for more than      minutes he must ensure that the driver furls the flag and covers the star plate.,,Five.
+370,CAS General Training Directive is issued at an interval of: ,"2  to 3 years, 3  to 5 years, 3  to 4 years, 2  to 5 years",B
+371,All officers of the rank of   will be considered as VIP: ,"Colonel and above, Major General and above, Brigadier General and above, All of the Above",C
+372,"Maintenance and repair of amenity stores is the unit responsibilities, cost to be met from the unit:","Private fund, Public fund, Welfare fund, None of the above",C
+373,"All guards and armed parties of the unit, before going on duty, will be inspected by the adjutant or, in his absence, by:","Some officers of their unit, Junior Commissioned officer of their unit, All of the above, None of the aboce",C
+374,The loss of every Secret & Top Secret document and a serially numbered document of any classification will be investigated immediately by a Court of Enquiry             to be assembled by the: ,"Army Headquarter, Formation/station commander, Commanding officer of the Unit, None of the above",C
+375,Repairs / Renewals costing over Taka           are classified as “abnormal” repair:,"90,000.00, 3,25,000.00, 2,50,000.00, 3,75,000.00",A
+376,Who occupies the position of is confidential adviser to the OC/CO of a unit? ,"Adjt, QM, MWO/Senior JCO, 2IC",C
+377,A CO or OC will ensure that the maintenance of the pay documents of the soldiers are maintained by:,"Respective Officers of his unit, Second in Command of his unit, Respective Head clerk of his unit, Respective Account clerk of his unit",A
+378,All C of I relating to fatal/serious MT accident will be finalized within a period of :,"1 month, 3 month, 2 month, 6 month",B
+379,Quarter Guards will be maintained by major units according to the decision of the:,"Formation/station commander, Concerned unit Commander, Brigade Commander, Commanding Officer",A
+380,Total Mess bill for the month will not exceed 1/3rd of the month emoluments of Major and above and ------------------ of Captain and below.,"25%, 33%, 30%, 50%",D
+381,"Who signs the ""Letter of Thanks"" to officers on his retirement after satisfactory service:","Chief of Army Staff, Military Secretary, Adjutant General, Colonel Commandant of the Regiment",A
+382,"The official secret act, 1923 will be applies to all personnel:","Service or civilian alike, Service, Mil and civ, None of the above",A
+383,A civilian holding a military appointment cannot give              to a person subject to the AA serving under him:,"Direct command, Command, Lawful command, Bde Comd",C
+384,Officers and soldiers attending Civil Court ON DUTY will wear:,"Mufti dress, Smart Casual, Formal dress, Uniform",D
+385,"Unless otherwise specifically instructed, an officer must be relieved of his duty after receipt of posting order within:","7 days, 10 days, 15 days, 20 days",A
+386,"If there is no MTO authorised or appointed, who will be given similar responsibilities, for unit transport:","Adjt, QM, None of the above, All of the above",A
+387,All items of uniforms in respect of officers will be procured by the:,"QMG’s br, MGO’s br, All of the above, None of the above",B
+388,Retention certificate in respect of officers must be submitted to MS br within the time an officer complete   of commissioned service:,"One Year, Two Year, Three Year, Five Year",C
+389,Who is authorized to order attachment of an officer to any formation/unit in connection with disciplinary case:,"GOC, AG, MS, None of the above",B
+390,An individual selected for ERE will be on probation for how much time from the date of reporting for duty in the user unit?,"6 month, 3 month, 2 month, Probation is not applicable",B
+391,The driver of a mechanically propelled vehicle (including a motor cycle) will NOT salute when: ,"The vehicle is in motion, The vehicle is stationary, All of the above, None of the above",A
+392,"In case of an accident of vehicle (Motor Cycle), Gun, Tank, bridging equipment etc a report by signal will be initiated within: ","6 hours, 12 hours, 24 hours, 48 hours",C
+393,"The award of a displeasure in NOT a summary punishment  under, AA Rule 17. It is a Service privilege of a ‘Commander” to enable him to deal with only those cases of officers where any other effective action, legal or administrative, is either:","Impracticable, Inexpedient, All of the above, None of the above",B
+394,The treasure chest will always be opened in the presence of duty JCO or duty NCO and guard commander by:,"SM, JCO (appointed as cashier), All of the above, None of the above",C
+395,The medical officer carrying out the examination will make entries in the Sick report in respect of each individual. Here the disposal/remarks 'Duty' given by doctors means:,"Treatment and return to duty, Treatment and light duty, Reporting sick unnecessarily, Detained in hospital for 24 hours",C
+396,That portion of the function of the command which deals with the maintenance of the forces termed “Administration”. It is divided into two parts; General administration and Local administration. Which of the following are included in General administration:,"Prescription of administrative policy, Discipline, Local road traffic control and movement, Civil-military relations",A
+397,The Security Classification of Fitness Report will be marked and Treated as:,"TOP SECRET, SECRET, CONFIDENTIAL, RESTRICTED",B
+398,Beards will be kept trimmed to a point and should not extend more than                       :,"Three fingers below the under lip, Four fingers below the under lip, Five fingers below the under lip, Six fingers below the under lip",B
+399,CO/OC unit which the transport belong is the competent authority to sanction move of vehicle for training purpose within a radius of:,"100 km, 120 km, 80 km, 48 km",D
+400,"An officer will be struck off the posted strength of the unit from the forenoon or afternoon as the case may be, of the date of the casualty, On move to a       on his services being placed at their disposal.",,Government department
+401,Any NCO reduced to a lower rank or class will take precedence in the lower rank or class from the    of the original sentence of the court martial.,,Date of signing
+402,Flags authorized to be flown over the residences of           officers        be flown when the officer is not in the station nor in cases when a senior formation/sub area commander in the same station.,,Will not
+403,"Purchases at Government Auction and form Government Departments, No officer or soldier will be permitted to purchase at government            .",,auction sales
+404,All cash payments will be made in the presence of an    .,,Officer
+405,"The Army is organized into field and static formations; the former are corps, divisions and brigades and the latter           are   and    .",,"Log Areas, station headquarters"
+406,"No individual will be attested unless his past ""character"" has been verified as      .",,Satisfactory
+407,Persons granted commission as JCO are neither   nor attested,,Enrolled
+408,The competent authority may sanction an extension of joining time provided the maximum period of               days is not exceeded.,,30
+409,An accused will always be under escort before a    .,,Court-martial
+410,Alterations in cheques must be    by the officer maintaining the account by signatures in full.,,attested
+411,Stock-taking of   and    including important components thereof will be carried out yearly by a board of officers.,,"Ammunition, arms"
+412,The monthly rate of mess subscriptions is               payable by regular and non-regular officer to mess of the unit/centre on whose posted strength officer is borne.,,Eight taka
+413,An officer cannot be allowed to resign his commission on the plea of       .,,ill-health
+414,In no case    will be worn at meetings of a political nature or on functions exclusively of a civil nature.,,Uniform
+415,"The flag on the service vehicle/car will be flown when the officer for whom it is authorized is present in the car and is travelling in the area of his    .
+
+",,Jurisdiction
+416,"The sale of, or traffic in any portion of the Government rations or supplies issued for troops or animals is          .",,strictly prohibited
+417,Under any circumstance ASC supplies will not be returned to the   . ,,supply department
+418,"The term “clerk” includes Clerks GD,       and       .",,"Clerks Store, Storemen Technical"
+419,"A Junior Commissioned Officer who is granted honorary rank of Lieutenant, on the active list, shall be                  the honorary rank of             on retirement.",,"granted, Captain"
+420,The grant and relinquishment of a rank/appointment will be published in the unit/regiment corps Part II Orders of the competent authority. Promotion of the rank of Warrant Officer is also notified in the:,"Part I Orders, Official Gazette, DO Pt II, CR",B
+421,"The Government of Bangladesh (Armed Forces Division) is the sanctioning authority in general for scales of stores and equipment for peace and war. However, who is empowered to fix the scales of all  Ordnance stores for reserves based on General Staff policy.","PSO AFD, Quarter Master General, Master General of Ordnance, None of the above",C
+422,The tenure of appt of sldrs in foreign is    extendable by one year.,"4 Yrs, 2 Yrs, 6 yrs, None of these",B
+423,The staff has no powers of command and they issue orders on the authority and resp of the:,"Fmn Comd, Sta Comd, Comd, Area Comd",C
+424,"Except for trial and sentence by court martial, the power of deciding finally that an offr is not to remaining in svc rests with:","The CAS, CORO, MS Br, The Govt",D
+425,Offrs of the rank of Col and above will not be permitted to retire voluntarily unless deemed expedient by: ,"The Govt, The CAS, The MS, None of the above",A
+426,An offr who is proceeding to attend an authorized course of instruction of 10 wks or more duration will be struck off the posted strength of the unit from:,"The date of leaving the unit, The dt when course starts, After expiry of journey time, None of the above",A
+427,Officer will be graded in the gradation list and in their Arms or Service according to the dates of their:,"Army seniority, Date of rank, All of the above, None of Above",A
+428,The Chief of Army Staff is assisted by four Principal Staff Officers namely:,"The chief of the General Staff, the Adjutant General, The Quartermaster General and the Engineer-in-Chief, The chief of the General Staff, the Adjutant General, The Quartermaster General and the Master General of Ordnance, The chief of the General Staff, the Adjutant General, The Quartermaster General and the Military Secretary, The chief of the General Staff, the Adjutant General, The Quartermaster General and the Judge Advocate General",B
+429,The Army comprises of:,"The regular forces, the territorial forces, the regular and supplementary reserves, Any auxiliary and irregular forces when placed under its control, All of the above, None of the above",C
+430,"An officer will be struck off the posted unit strength from the forenoon or afternoon as the case may be of the date of the casualty,","On being declared a deserter or when reported missing, On becoming a prisoner of war, All of the above, None of the above",C
+431,A non-regular officer after the grant of commission is liable to serve on probation for:,"Three months, Six months, Nine months, Twelve months",D
+432,An officer will vacate his appointment when an officer proceeds on temporary duty and it becomes known that his absence will exceed:,"3 week, 2 month, 3 month, 21 days",C
+433,The tenure of the appointment of Colonel Commandants would be initially restricted to:,"One year or date of retirement of the officer whichever is earlier, Two year or date of retirement of the officer whichever is earlier, Three year or date of retirement of the officer whichever is earlier, Five year or date of retirement of the officer whichever is earlier",D
+434,The retirement of Master Warrant Officers (including Clerks) of all arms and services will be governed by the following service limits/tenure of appointment on the effective list:,"33 years’ service or 5 years tenure of appointment whichever is earlier, 30 years’ service or 5 years tenure of appointment whichever is earlier, 30 years’ service or 4 years tenure of appointment whichever is earlier, 33 years’ service or 4 years tenure of appointment whichever is earlier",A
+435,Army ranks are of 4 types. One is substantive or substantive temporary rank. The other three are:  ,"Paid acting, honorary and local rank, Paid acting, Honorary and Temporary, Paid acting, Temporary and local rank, Temporary, local and honorary rank",D
+436,An officer cannot be reverted to a lower rank when holding:,"Honorary rank, Substantive and Sustentative Temporary rank, Temporary rank, Local rank",B
+437,The grant of local rank will be at the discretion of:,"Chief of Army Staff, Formation Commander, Military Secretary, Adjutant General",A
+438,"When travelling by road or motor trasport, an individual is entitled to 1 day as journey time for each:","500 km distance, 400 km distance, 300 km distance, 250 km distance",D
+439,An accused undergoing trial by court-martial will be examined by a medical officer on the morning of: ,"Each day on which the court is ordered to sit, The day on which verdict is declared, The day on which accused is sick, The first day of the trial",A
+440,The acct of all public funds cash credits verified by the ________or periodical audit boards.,,Quarterly
+441,Donations and contributions to funds will be deducted from the paid bills of the          concerned.,,Indl
+442,Qualification pay in addition to command/staff/charge pay      is         on permanent basis.,,admissible
+443,"In maint of accts of ord stores, and ammo stores the con no series of issue and receipt docus are maint on yr basis from:","01 Jan to 30 Jun, 01 Jul to 30 Jun, 01 Jan to 31 Dec, None of the above",B
+444,When danger money will be admissible?,"Only during pds of actual trg and active emp on such duties, Only during pds of actual trg, Only during pds active emp on such duties, None of these",A
+445,"If an officer attains two or more qualifications, he will be entitled to:","Only one rate of qualification pay, Maximum two rate of qualification pay, Only one rate which is favourable to him, None of the above",C
+446,How many month granted an ante-date for course of studies abroad?,"Not exceeding six month, Not exceeding three month, Not exceeding two month, None of this",A
+447,The kit allowance to officers is payable monthly from:,"Joining Bangladesh Military Academy as cadet, The date of commissioning, On promotion to the Captain rank, On joining the unit",B
+448,What is the renewal outfit allowance rate of offrs:,"9227.00, 11995.00, 12675.00, 23990.00",B
+449,How many months newly raised units and formations may draw their first mess maint allces in advances?,"Four months, Five months, One month, None of these",A
+450,Leave Means leave taken for a period not exceeding       other than lve preParatory to retirement.,"Four months, Five months, Twelve months, Eighteen months",A
+451,When the pay & allces will be is discontinued of an Offr? ,"After a Court Marshal  of an Offr, After the death of an Offr, Before the death of an Offr, All",B
+452,Name of an officer shall be struck off the pension establishment if an officer neglects to draw his pension for a period of :,"6 months, 9 months, 12 months, 15 months",C
+453,Daily messing allowance to officers is not admissible when the halt do not exceeds:,"06 hour, 12 hour, 24 hour, 48 hour",A
+454,The acct of all public funds shall be bal:,"Fortnightly, Monthly, Quarterly, Half yearly",B
+455,Payments of daily messing allowances from Annual Training Grant (ATG) will be authorised by publication of:,"CORO order, Division order, Part I order, BAO",B
+456,JCO/OR and NC(E) are entitled to get advance of pay:,"When moving from one station to another on transfer, When proceeding to attend school of instruction or training, When proceeding on leave, All of the above",D
+457,If any government property is damaged but not actually deficient shall be:,"Surveyed, Condemned, None of the above, All of the above",C
+458,Who is responsible to cheek  the value of stores lost:,"Unit Commanding Officer, Formation Commander, Audit Authority, None of the above",C
+459,Cheque book must be kept under the lock and key in the personal custody of the:,"Commanding Officer, Drawing officer, Account Clerk, None of the above",B
+460,When an officer possessing financial powers is absent on tour who will sign letters on his behalf?,"2nd in Command (2IC), Adjutant, Quartermaster, Another officer",D
+461,"When an offr is tfr from one sta to another, he will not be allowed to retain the govt married accn after the dt of handing over the charge for more than:","10 days, 15 days, 30 days, 3 months",A
+462,Which date will determine the priority for accommodation by Station  Headquarter:,"MovO dt, Arr dt, Arr date or date of receipt of application whichever comes later, None of those",B
+463,Who are eligible member for grant of  a family pension:,"Widows, Mother, Father, All of the above",D
+464,If the deceased has left neither widow nor children nor parents then who will receive the depended pension:,"Brothers/Sisters in law, Father/Mother in Law, Brothers/Sisters, All are above",C
+465,"Recoveries from wounds, injury or disability pension shall require the special orders of:","The CAS, The Govt of Bangladesh, The AG, The CO",B
+466,Persons entitled to travel by air are authorised to get the TA of the air passage fare actually paid plus:,"10% of it, 15% of it, 20% of it, None of the above",C
+467,All married officers holding commission in the Bangladesh Army shall be eligible for unfurnished married:,"Rent free accommodation, Rent accommodation, Rent 50% free accommodation, None of the above",A
+468,What is rate of ration allowance after LPR for every adult membdr (12 yrs and above children)?,"Tk. 418.00 per man per month, Tk. 450.00 per man per month, Tk. 350.00 per man per month, Tk. 550.00 per man per month",A
+469,Rate of FRA of soldiers is:,"Tk 52.00, Tk 68.00, Tk 70.00, Tk 75.00",C
+470,RR must be prepared by the    of the next month:,"05th, 7th, 10th, 15th",C
+471,The purpose of an audit is:,"Prevention and detection of error and fraud, Clerical commission and omission, To check all everything only acct, None of the above",A
+472,"The term “day” means a calendar day, beginning and ending    at     .",,midnight
+473,       are entitled to the same class of accommodation as the head of the family.,,Families
+474,The rules in Military Tariff are applicable to military traffic booked on warrant or       .,,credit note
+475,"Ordinarily,    may be drawn only during absence from the permanent station On duty.",,Daily allowance (DA)
+476,DM&Q is the competent authority to sanction the grant of daily allowance when the period of the continuous halt exceeds   days.   ,,30
+477,"Daily allowance (DA) comprised of three elements; these are messing, accommodation and       .",,Conveyance/transport
+478,All move of parties exceeding 20 will be authorized by the     .,,Brigade/Station Commander
+479,"Military and civilian officers, when engaged on night duty and when no allowance is admissible for such duty, will be provided with free    from their residence to place of duty and back.",,transport
+480,For halts of longer duration full daily allowance will be admissible for every       hours.,,24
+481,"The term    means the most convenient route, being that usually taken by the travelling public.",,“main route”
+482,The actual route and the class of train  by which individuals are ordered to travel will be entered on the    .,,warrant
+483,"Patient suffering from Chicken-pox, Plague, Leprosy etc will travel by rail in    compartments.",,reserve.
+484,An advance of TA should not be drawn more than     month before the actual commencement of the journey on transfer.,,a.
+485,"An individual summoned to give evidence while on        will be entitled to coveyance from and to the place of summoned, as if he was on duty.",,Leave.
+486,"Conveyance may be provided directly by warrant, requisition, credit note or in cash and indirectly, in the form of          .",,Passage or Travelling Allowance (TA).
+487,Which one is the leave railway warrant form for Armed Forces Officers/Personnel:,"BAFT-1750, BAFT-1712, BAFT-1752, BAFT-1720B",A
+488,"If an individual travels in a lower class of accommodation than that to which entitled, he shall be entitled to the fare: ","For the class of accommodations actually used, For the entitled class, For the class of accommodations actually used plus extra fare or fares admissible for the journey of the class by which he is entitled to trave.l, None of the above",C
+489,Leave concession voucher (BAFT 1709-A) is known as:,"Form G, Form D, Form E, None of the above",B
+490,Officers traveling at their own expenses in railway using Form D will get:,"1st class, on payment of 2nd class fare, 1st class, on payment of actual fare, 1st class, on payment of 50% fare, 1st class, on payment of 75% fare",A
+491,Government stores are consigned by railway on:,"Warrant, Credit note, Cash payment, Concession voucher",B
+492,Officers are entitled to one berth in train if travels between:,"8 pm to 6 am, 6 pm to 6 am, 9 pm to 6 am, 12 pm to 6 am",C
+493,Reserve compartment in train is authorized for: ,"Military prisoners, Escort of prisoners, All of the above, None of the above",C
+494,Allowance for each day of absence on duty from an individual's permanent station intended to cover the additional daily charges in consequence of such absence is defined as:,"Conveyance allowance, Mileage allowance, Daily allowance, Daily messing allowance",C
+495,"For the calculation of traveling allowance, all entitled persons are divided into:","3 Grades, 4 Grades, 5 Grades, 2 Grades",B
+496,A transfer classified as “temporary” shall be reclassified as “permanent” when the period of duty in the same station exceed:,"3 months, 6 months, 12 months, 30 days",A
+497,Daily allowance is not authorized if an indl does not reach a point outside a radius of   from his permanent station:,"Two miles, Five miles, Ten miles, Seven miles",B
+498,"In general, daily allowances may not be drawn for a continuous halt of  at any one place:","Five days, Forty two days, Ten days, Thirty days",C
+499,No daily allowance will be admissible for periods of halt not exceeding: ,"24 hours, 12 hours, 6 hours, 8 hours",C
+500,Daily Allowance will be reduced if an individual is provided with free accommodation during the period of halts by:,"25 Percent, 30 Percent, 45 Percent, 50 Percent",B
+501,How many mileage allowances is admissible for an individual for journeys on permanent duty by roads: ,"One mileage allowance, Two mileage allowance, Three mileage allowance, Four mileage allowance",B
+502,"JCOs and ORs are allowed to use microbus     .
+
+",,On payment
+503,"Officers and JCOs may use vehicles for official duties, irrespective of the             , when such duties cannot satisfactorily be performed otherwise.",,distance
+504,Licence of a driver committing an     accident will not be renewed unless he qualifies testing and licencing board again.,,serious
+505,"Every year best   units will be awarded trophy at formation level, basing on the overall score achieved in Fitness Inspection.",,Three
+506,An officer of Bangladesh Army can not be a member of any  civil   .,,club
+507,"Units of Armoured, Artillery, Engineer, Infantry and    are only eligible for national standard provided all other conditions are met. ",,Signal
+508,Citations for peace time medals (except course and promotion related achievement) should not be forwarded which happend before   years.,,4
+509,"For medical treatment and recreational visit by own expense in any country except Pakistan and India, leave upto 20 days will be approved by    .",,DPS
+510,"Military personnel who receives the same peace time medal more than once, will use    at the end of the medal name.",,Bar
+511,Its mandatory for army person and the pillion to wear  helmet while riding motor cycle. ,,crash
+512,     serving in the army are not allowed to obtain civil driving licence except motor cycle.,,JCO and OR
+513,     category persons must be present at the morning PT and games but their participation is voluntary.,,Low medical
+514,Board of Scrutiny at AHQ is headed by    for necessary vetting of citations for peace time medal.,,AG
+515,LPG gas cylinder should be placed 10-15 feet away from burner. It should also be placed within 2.5 feet high brick wall or surrounded by    .,,Sand Bag
+516,"To appear in Captain to Major promotion examination, a Captain must be qualified in    examinations.",,Advance Map Reading
+517,"If any mil pers trapped by civil miscreants through smoking, drinking and eating from them which caused him to be fainted and lost belongings he will be terminated from the svc as       per   with benefit.",,AR(I) 171(J)
+518,A Bde Comd can att an offr under him according to AR(I) 77       for    .,,Discip case
+519,"If mess bills are not paid in time, it creates difficulties to run the mess. If any offr fail to pay the mess bill, act against him will be taken at the same time, this will be reflected in his    .",,Annual OPR
+520,Sldrs should be present    mins prior to the roll call. Roll calls should be as short as poss.,,5
+521,Unit scoring below 50% marks in FI i.e unsatisfactory result may be considered as     .,,‘Unfit’
+522,Vacancies allocated for Majors to perform Hajj funded by Bangladesh Army are:,"1, 2, 3, 4",B
+523,What is the rate of monthly allowance from Officer's Welfare Fund for widows of Major and below:,"Taka 3000, Taka 2500, Taka 4000, Taka 5000",C
+524,The aim of Fitness Inspection is to increase efficiency of the unit by: ,"Rendering help and advice, Resolving any difficulties, Receiving ideas, All of the above",D
+525,An serving officer must take written permission for purchasing land in any district other than his own and his wife's district from:,"AHQ, MS Br, AHQ, AG's Br (PS Dte), AHQ, CORO, AHQ, AG's Br (M&Q Dte)",B
+526,Minimum service limit for appearing Gunnery Staff Course entrance examination is:,"6 Year, 8 Year, 10 Year, 18 Year",A
+527,How many close relatives of officers/JCO/ORs may travel with the dead body when transported by road or by helicopter provided seats are available: ,"2-3 Person, 4-5 Person, 2-4 Person, 1-2 Person",A
+528,"If the mess strength is 100, then how many civilians are allowed to take food as civil feeding: ","05 person, 10 person, 15 person, 20 person",B
+529,Minimum how many years must be completed by a unit to be eligible for Regimental Colour: ,"05 year, 08 year, 10 year, 15 year",B
+530,An unit commanded by Lt Col where   or more officers are authorized may be considered as major unit for the purpose of using military transport:,"08, 10, 15, 20",B
+531,Regimental/Corps reunion are held at an interval of:,"02 year, 04 year, 05 year, 06 year",C
+532,A soldier can submit application for civil driving licence       before          months of retirement:,"03 months, 06 months, 09 months, 12 months",B
+533,What is the prescribed dress for unit raising day:,"Combat uniform with beret, Dress of the day, SD, Working dress",B
+534,Vehicle on amenity payment can be used for maximum    (may not be continuous):,"6 hour , 8 hour, 10 hour, 12 hour ",B
+535,Unit/Headquarter/Establishment are marked on 1000 marks in fitness inspection. Marks alloted for field unit on operational proficiency/mission oriented proficency is: ,"325, 175, 250, 50",C
+536,"As per scale of stationery, an officer is authorised with       ball pen (Black) per year:","12, 24, 36, 48",B
+537,"If any officer is exempted from   course, he will not get any marks in   TRACE.",,Mandatory
+538,Creating social media group or becoming   of such group in social media is prohibited. ,,Member
+539,      punishment should be awarded to a person committing accident by driving a motor cycle.,,Exemplary
+540,"In   , military person will salute only and saying assalamu walaikum is forbidden: ",,Uniform
+541,Distance must be selected from     while claiming TA/DA bill.,,IBAS++
+542,AC can be used in the mosque of cantonments during Jumma and        prayer between the pd from Feb to Nov.,,Taraweeh
+543,An officer will not be selected for UN mission if he has    grading in the last two OPR.,,Average
+544,An officer may get maximum  mark in his/her TRACE as bonus mark for publication in his/her entire service pd. ,,1
+545,Male officers shall not wear tracksuit trousers with tracksuits or T-shirts in PT and games during           .,,Summer
+546,"A court of inquiry board will recommend the category of punishment, i.e          .",,Exemplary/severe/light
+547,A person who is involved in drug business or a drug addict will be awarded      punishment. ,,Exemplary
+548,"According to present policy, a military person can remain a low medical category for maximum    years.",,5
+549,Officers family will receive taka 24 lac if died during service from Army         . ,,Family security scheme
+550,Belt will be worn with uniform when participating in Ceremonial Parade and employed in duty with   .,,Arms
+551,A person will be awarded with   if he became first in three or more army level courses.,,SUP
+552,How many mobile SIM cards can be used by a military person: ,"1, 2, 3, 4",B
+553,Which of the following are basic and essential quality of a soldier as per CAS training directives:,"Efficiency in weapon handling, Loyalty, All of the above, None of the above",C
+554,Duration of company level group training is: ,"3 weeks, 3 weeks 2 days, 3 weeks 3 days, 3 weeks 4 days",B
+555,How many chances a person will get to qualify in each bi-annual IPFT:,"2, 3, 4, Only one",B
+556,A student officer attending a course will be made RTU if he is overweight by: ,"5 lbs, 10 lbs, 15 lbs, 20 lbs",C
+557,What is the bonus mark per year added in the TRACE for commanding a field unit in the rank of Lt Col/Major:,"0.1, 0.2 , 0.3, 0.5 ",B
+558,"For failing in courses or becoming RTU (except medical reason), marks deducted from TRACE is: ","0.20, 0.25, 0.50, 0.75",B
+559,"According to CAS command philosophy, how many criteria are important for making command effective: ","2, 3, 4, 16",B
+560,"For receiving command insignia, a commander must serve in command appointment minimum for:","3 months, 6 months, 12 months, 24 months",B
+561,"Officers availing higher study leave in abroad for 03 years and more, need to serve minimum    upon returning to become eligible for promotion: ","3 month, 6 month, 9 month, 12 month",C
+562,"After the completion of agreement for interest free car loan, within how many days cocerned officer has to purchase car and all documentation done to avoid fine:","30 days, 45 days, 60 days, 90 days",D
+563,Rank of temporary Captain will be made substantive or substantive temporary after a period of  from the date of commission:,"3 years, 6 years, 4 years, 5 years",B
+564,"A strong password can reduce/minimize the risk of cyber-attack, which may be created with minimum: ","8 letters, 10 letters, 12 letters, 15 letters",C
+565,"If any Major and below officer applies for voluntary retirement within 1st year of completion of higher studies and his case is approved then, pension will be deducted at the following rate:","15%, 20%, 25%, 30%",C
+566,The leave sanctioning authority shall not change the date of leave or grant less leave in case of:,"Recreation leave, Privilege leave, Maternity leave, All of the above",C
+567,Ammunition which are not fit for operational use are classified by ATO as:,"Unserviceable, Segregated, Range Practice, Major Repair",C
+568,Maximum bonus mark an officer can get in his entire service pd for publication is: ,"1 mark, 2 mark, 3 mark, 5 mark",A
+569,AC cannot be used in the mosque from:,"Jan to Oct, Nov to Apr, Mar to Oct, Nov to Feb",D
+570,"According to latest policy on dress for the officers, which type of shoe cannot be used with formal dress:","Oxford, Derby, Loafer, None of the above",C
+571,What is the last (16th) command philosophy of Respected CAS:,"Impart of social learning, Achieve efficiency, Enhance effective communication, Take proper feedback and evaluate",D
+572,Ldrship is the art of influencing and                people to achieve willingly the team or org goal.,,Directing
+573,The outcome any Comd seeks is ________on the btl fd.,,Success
+574,"In terms    and     one complementary, but not equal. ",,"command, control"
+575,The style of ldrship depends on the lvl of   of the followers.,,Readiness
+576,The real basis of msn Comd in an unbroken chain of mutual trust and respect between  at all lvl.,,comds
+577,      embodies leadership and management.,,Command
+578,Transactional ldrship is most often explained as a    exchange between ldrs and their fol.,,Cost-benefit
+579,"Leadership is the result of the interaction of three main factors: The Leader,       and The Situation.",,The Gp
+580,Sldrs trust ldrs who are confident in their own     .,,Abilities
+581,Morale is the human dimension’s most imp   elm.,,Intangible
+582,"According to the theories of sit app, sit leadership has_______different styles that a ldr can adopt in his or her app to the one-to-one mgt of a subordinate according to the sit or task.",,Four
+583,A dinner ni in the mess is a   . ,,Parade
+584,      will remain accountable for any decisions and action of his staffs.,,Comds
+585,The mix of skills and knowledge will vary at different rk levels in terms of emphasis in    and   .,,"Scope, complexity"
+586,"Mgt is the process of plg, org, dir and      org resources in the pursuit of org goals.",,Con
+587,Risk mgt is a     part of Army life.,,Fundamental
+588,A    ldr is the one who is gp minded.,,Participative
+589,The     or     of a comd is gen assumed to have the same weight as an order.,,"wish, desire"
+590,Maj and Col are    grade offrs.,,Fd
+591,      and above are also known as sr offrs.,,Col
+592,"If three offrs of different rk are walking together, the senior most walks in the    , the next senior on his     and junior-most on his left.",,"Middle, right"
+593,      should not be visible an displayed while in uniform.,,Cell phones
+594,It is customary for an offr in unf to salute a wife of an offr      of the rk of her husband.,,Irrespective
+595,"When two or more offrs are together,    will acknowledge salutes.",,Only the senior.
+596,The first element in the mil code is    .,,Concept of duty
+597,Mess bill must be paid by the    of each month.,,7th day
+598,Use of umbrella with unf is     .,,Prohibited
+599,Offr will consume all meals in mess. It is unexpected on one’s part to carr food at    .,,BOQ
+600,Offrs should maint     while entering the mess.,,Proper dress
+601,According to army regulations no   or   of any kind may either be presented to an officer by officers or soldiers who are serving or who has served under his command.,,"presentation, gift"
+602,"On    , Bangladeshi flags were flown throughout East Pakistan on Pakistan’s Republic Day as a show of resistance.",,23-Mar-71
+603,National Children’s day is celebrated on      ‘s birthday.,,Bangabandhu
+604,     was the comd of Naval Cdo gp which carr out Op JACKPOT.,,"Submariner Abdul Wahed Chowdhury, BU, BB."
+605,"On        , the Provisional Government of Bangladesh issued the Proclamation of Independence which confirmed Sheikh Mujibur Rahman's original declaration of independence.",,10-Apr-71
+606,The people's republic of Bangladesh was proclaimed on    .,,26-Mar-71
+607,The title Bangamata is conferred to   . ,,Begum Fazilatunnesa Mujib.
+608,       was the youngest son of Bangabandhu Sheikh Mujibur Rahman.,,Sheikh Russel
+609,"During LW, some Bengali submariners serving in earstwhile Pakistan Navy defected from _________ and formed Bangladesh Navy.",,France
+610,Mujib Battery was initially raised and org by     .,,Capt Abdul Aziz Pasha
+611,On    Sheikh Mujibur was conferred the title Bangabandhu.,,23-Feb-69
+612,"‘Mujib Bty’, the Arty sub-unit that fought in the LW was later raised as            in the corps of Arty of BD Army.",,1 Fd Regt Arty
+613,"Rowshon Ara Bty, the Arty sub-unit that fought in the LW was later raised as     in the corps of Arty of BD Army.",,2 Fd Regt Arty.
+614,Who was the commanding officer of K forces ?,,Maj Khaled Mosharraf.
+615,K' Force consisted of    .,,"4,9 & 10 East Bengal Regiment"
+616,S' Force was raised at a place called        .,,Hejamura (opposite to Sylhet border)
+617,S' Force consisted of      .,,2 & 11 East Bengal Regiment
+618,     is Swadesh Prottabartan Dibosh.,,10 January.
+619,     was appt as the Dy Chief of Staff (DCOS) of BD Armed Forces during LW.,,Gp Capt A K Khondokar
+620,"In a cabinet meeting of the provisional government of Bangladesh held on 11 July 1971, liberation war was structured through dividing the Bangladesh into              sectors.",,11
+621,"On         , the provisional government of BD declared the formation of the BD Armed Forces, consisting of the BD Army, BD Navy and BD Air Force.",,"4th April, 1971"
+622,       was the 1st Sec Comd of Sec 2 of LW.,,Maj Khaled Mosharraf
+623,The flag of Bangladesh was first hoisted on    .,,2-Mar-71
+624,    was the 1st Sec Comd of Sec 3 of LW.,,Maj K M Shafiullah
+625,    was the Sec Comd of Sec 4 of LW.,,Maj C.R Datta
+626,    was the Sec Comd of Sec 5 of LW.,,Maj Mir Shawkat Ali
+627,"The Provisional Government of Bangladesh, popularly known as the            also known as the Bangladeshi government-in-exile, was established following the proclamation of independence of East Pakistan as Bangladesh on 10 April 1971.",,The Mujibnagar Govt
+628,     was the 1st Sec Comd of Sec 7 of LW.,,Maj Nazmul Haque
+629,    was the 1st Sec Comd of Sec 8 of LW.,,Maj Abu Osman
+630,Two of the female freedom fighters were awarded with Bir Protik for their valiant contribution during the LW; their names are     and     .,,"Capt (Dr.) Setara Begum, Taramon Bibi."
+631,During our Liberation war many members sacrificed their lives and a total of       fighters received gallantry awards for their sacrifice for the nation.,,331
+632,    was the First western developed country to recognize Bangladesh.,,Australia
+633,"Air Wg of the LW Forces was estb on     by the Bengali offrs, airmen and technicians.",,28-Sep-71
+634,       movie was inspired by Bir Sreshtho Motiur Rahman. ,,Ostitte  Amar Desh.
+635,Which Inf units were raised during LW?,,"9, 10 and 11 EB."
+636,What was the appointment of Bir Sreshtho Ruhul Amin?,,Engine Room Artificer
+637,On   Bangladesh became a member of UN.,,17-Sep-74
+638,From which loc 2 EB revolted against Pakistani Forces during LW?,,Gazipur
+639,_________ members of Bangladesh Army were martyred in LW?,,1515
+640,_______ offrs of Bnagladesh Army were martyred in LW?,,55
+641,First op (Op Jackpot) launched by Bengali Naval Cdo was on    .,"30 Mar 1971, 21 Nov 1971, 16 Apr 1971, 15 Aug 1971",D
+642,Where did Bangladesh Government in exile take oath?,"Theater road, Kolkata, Mujib Nagar (Baidyanathtala) in Meherpur, Sohrawardiuddan, Dhaka, Benapol, jashore",B
+643,"On which dt, Bangabandu Sheikh Mujibur Rahman was freed from the Pakistan jail? ","On 10 Jan 1972, On 8 Jan 1972, On 8 Dec 1971, On 17 Jan 1971",B
+644,"The national flag of Bangladesh was adopted nationally on January 17, 1972.?","10 Jan 1972, 15 Jan 1972, 17 Jan 1972, 19 jan 1972",A
+645,Who designed the National Flag of Bangladesh?,"Kamrul Hasan, Moinul Hossain, Hamidur Rahman, Shamim shikdar",A
+646,Where was the body of Bir sreshtho Hamidur Rahman buried ?,"Banani Graveyard, Azimpur Graveyard, Mohammadpur Graveyard, Mirpur Shahid Budddijibi Graveyard",D
+647,When did Bangabandhu return to Bangladesh from confinement at Pakistan after the LW?,"16 Dec 1971, 10 Jan 1972, 12 Jan 1972, None of the above",B
+648,When did Bangabandhu sheikh Mujibur Rahman address the UN General Assembly in bangla for the first time?,"a. On 10 September 1971, b. On 25 October 1974, c. On  10january1975, d. On 25 september 1974",D
+649,Who was the first comd of KILO Flight?,"Gp Capt A K Khondoker, Sqn Ldr Sultan Mahmud, Sqn Ldr Mohiuddin Jahangir, Gp Capt Asadullah",B
+650,Who was the Acting President of Mujibnagar Govt during LW in 1971?,"Tajuddin Ahmed, Syed Nazrul Islam, M A Mansur Ali, None of the above",B
+651,Attk on Kamalpur BOP on 31 Jul 1971 was carried out by:,"1 E Bengal, 2 E Bengal, 10 E Bengal, 3 E Bengal",S
+652,Which unit led the 2nd Btl of Belonia Bulge? ,"1 E Bengal, 2 E Bengal, 10 E Bengal, 3 E Bengal",C
+653,Which film is made on the partition of 1971 ?,"Abar Tora Manush Ha, Chitra Nodir Pare, Nadir Nam Madhumati, Habagoba",B
+654,How many women freedom fighters received the Bir Protik Award for their contribution in the liberation war of Bangladesh?,"1, 2, 3, 4",B
+655,When did Australia recognized Bangladesh as an independent nation?,"a. On 16 December 1971, b. On 16 December 1972, c. On  26 January 1972, d. On 12 April 1972",C
+656,When did Bangabandhu sheikh Mujibur Rahman address the UN General Assembly in bangla for the first time?,"On 10 September 1971, On 25 October 1974, On  10 January1975, On 25 September 1974",D
+657,Bir Shrestho Capt Mohiuddin jahangir was killed on the bank of which River ?,"Padma River, Mahananda River, Surma River, Karatoya River",B
+658,Bir Srestho Sepoy Mostofa Kamal was martyred in the district of:,"Cumilla, Brahmanbaria, Moulovibazar, Nator",B
+659,Who was the first martyrs among the seven Bir sresthos of the war of liberation?,"Ruhul Amin, Hamidur Rahman, Nur Mohammad, Munshi Abdur Rouf",D
+660,Who was the commander in chief of the liberation war of Bangladesh?,"K M Shafiullah, Nuruddinn Khan, M A G Osmani, Khaled Mosharrof",C
+661,What was the name of spl cdo team of Mukti Bahini that carried out spl ops in and around Dhaka led by Major Khaled Mosharrof?,"Ghatak Platoon, Crack platoon or Dhaka Crack Platoon, Barud Platoon, None of the above",B
+662,The journey of the radio centre widely known as ‘swadhin Bangla Betar Kendra’ began on   ?,"In the evening of 2 Mar 1971, In the evening of 17 Mar 1971, In the evening of 26 Mar 1971, In the evening of 7 Mar 1971",C
+663,The book on liberation war ‘Amar Kichu Kotha’ was written    by   ?,"Anisul Haque, Zafor Iqbal, Sheikh Hasina, Bangabandhu Sheikh Mujib Rahman",D
+664,When was the ‘flag of Bangladesh’ first hoisted ?,"2 Mar 1971, 26 Mar 1971, 17 Mar 1971, 7 Mar 1971",A
+665,Which of the fol is an imp battle for ‘K’ Force?,"2nd Battle of Belonia, Battle of Kamalpur, Battle of Mukundapur, Battle of Akhaura",A
+666,Who was the first Bangladesh Woman to scale seven highest peaks in seven continents?,"Wasfia Nazreen, Nishat Majumder, Salma Khatun, Rizia Akter",A
+667,Bir Shrestho Flight Lieutenant Matiur Rahman’s body was returned to Bangladesh for a ceremonial and highly symbol reburial on     .,"02 Jun 2006, 24 Jun 2006, 15 July 2007, 06 July 2007",B
+668,Who was the journalist exposed human rights violations and scale of the Pakistan Army’s brutality in 1971?,"Lawrence Lifschultz, Siddique Salek, Willem Van Schendal, Naville Anthony Mascarenhas",D
+669,When did Paradrop take place at Tangail during LW of BD?_________,"11 December 1971, 14 December 1971, 21 November 1971, 25 November 1971",A
+670,How many persons alongwith Bangabandhu Sheikh Mujibur Rahman were charged in the Agartala Conspiracy Case?,"35, 43, 23, None of the above",A
+671,How many pers of Bangladesh Army received galantry award because of their valiant contributions in LW?,"287, 21, 23, 55",A
+672,"As per MOQ-2022, qual reqr for the prom from Sgt to WO are:","ATT, Sgt course, PE and HSC/ Eqvt civ edn from 01 Jan 2023, NCOC, One Utility Course, PE and civ edn HSC/ Eqvt form 01 Jan 2023, ATT, PE and civ end HSC/Eqvt civ edn from 01 Jan 2023, CLM and PE",B
+673,PE is not a prerequisite to get prom to the rk of:,"Lcpl, Cpl, Sgt, WO",B
+674,All Female sldr shall  be exempted from   Cadre.,,Arms/ Services Commando Cadre
+675,An indl will be permitted to appear ______times to qualify for one particular PE reqr for his next higher rk.,,maximum three.
+676,An indl will not be allowed to appear the ______without atnd all other prerequisites for prom to the next rk.,,PE
+677,The precedence     is to be res for matters of great urgency.,,IMM.
+678,The writer must know the exact meaning of every word in order to avoid ambiguity____and misunderstanding.,,Vagueness.
+679,Over_______ should be avoided.,,Classification.
+680,Precedence in the    is to be shown on the left.,,Loose Minute (LM).
+681,Docus reqr quick handling may be given a _______ marking.,,Precedence.
+682,The identifying ref is placed _________the date.,,Opposite.
+683,No _______is to be used after the salutation.,,Comma.
+684,Para are numbered in _______ numerals.,,Arabic.
+685,A _______is ident by the number and title.,,Chart.
+686,"En courses are       , own courses are not.",,factors.
+687,"Fractions and whole numbers, except _____ are to be written in figures.",,One.
+688,Minutes are signed by the secy after approval by the       .,,Chairman.
+689,It is the prerogative of the ______ to sign in green ink,,Chief of Staff.
+690,Brevity is achieved by            and      editing.,,"Planning, Careful"
+691,"Reading aloud helps to ident _______, _______ and _______. ",,"Inaccuracy, ambiguity, clumsiness of expressions."
+692,"In an Aprc while writing “Selection of the      if a new idea does occur, the writer must stop and go back and write it into the appr sec. ",,Best Course.
+693,Overlay orders are not a new forms of     .,,Staff duties.
+694,OpO are issued either in     or    .,,"writing, orally."
+695,_______ and _______ must be distinguishable from facts.,,Opinions and deductions.
+696,Jr staff offr must not sign ltr    a req.,,refusing.
+697,_______ are at a level between commanded ltr and routine ltr.,,Directed ltr.
+698,"In gen, policy matters and      correspondence are addressed to appt.",,formal.
+699,When only one color is used then forces and activities will be drawn with a          .,,double line.
+700,In    writing proper nouns are written in capital ltr.,"Initial capital, Capital, Op, None of the above",C
+701,The right margin is to be at least one center or ____paces wide.,"1, 3, 5, 4",C
+702,A__is placed at the top or bottom of the page as appropriate.,"Flags, Staple, Kicker, Flag",C
+703,Which msg or info should be cir through sig msg ?,"Congratulatory msg, SITREP, Ack, unless of an op nature, Air Sp rear","A, D"
+704,The        is inserted on the msg box by officer when he signs the msg.,"DTG, Precedence mk, Sy cl, Rank",A
+705,A wng order is to be clearly defined as such and should incl:,"The scope of the op and probable tasks or mov, Details of nec prep, When and how detailed orders will be issued, All of the above",D
+706,Which one is not correct?,"HQ 9 Inf Div, GS Br (MO Dte) AHQ, Main HQ 7 Inf Div, HQ 87 Inf Bde",B
+707,The chairman should normally approve the secretary’s draft within ________ hr.,"12 hr, 24 hr, 48 hr, 72 hr",C
+708,Which one is the auth abbr of Privilege Leave?,"PL, P/L, P Lve, Plve",C
+709,Ltr and papers reqr quick handling may be given a ,"Privacy mk, Precedence mk, Paragraph Headings, None of the above",B
+710,All SECRET and TOP SECRET docu are to bear indl: ,"Copy no, Ident no, Docu no, Ser",A
+711,Which one of the fol is not a means of empl sig msg?,"Radio, Rnr, Line, Sig Dispatch Svc",B
+712,Supplementary docu that amplify the parent docu are called: ,"Anx, Appx, Encl, Att",A
+713,"Paragraph headings can form part of the opening of a sentence, in case of:","All writing , Op writing, Non op writing, Svc Writing",B
+714,The allocation of copy num docu is shown in the:,"Parent Paper, Distr list, Margin, None of the above",B
+715,"A map is ident by the country or geographical area, ____ and scale.","Sheet no, Serial no, Para no, None of the above",A
+716,External addressees are listed in order of:,"Seniority, Alphabetical order, None of the Above, a and b",A
+717,____is given mainly to seek decision on a matter from an auth.,"A decision brief, Info brief, None of the above, All of the above",A
+718,Every problem drived from a          .,"Solution, Sit, Aim,  Apre",B
+719,All OpO comprise_____mandatory sec.,"3, 4, 5, 6",C
+720,What is the de-abbr of GOC?,"General Offr Commnadings, General Offr Commanding, Generals Offr Commanding, General Offr Commanding",B
+721,What is the full meaning of BMI?,"Body Massage Index, Body Measurement Instr.s, Body Mass Index, Body Mass Impact",C
+722,Total number of food ingredients are     .,"4, 5, 6, 7",C
+723,What is the normal amount of fat in human body?,"10%, 15%, 20%, 25%",B
+724,What is the Lenghth and Height of Horizontal rope?,"Lenghth 15′ and Height 7′, Lenghth 19′ and Height 9′, Lenghth 20′ and Height 12′, Lenghth 22′ and Height 14′",C
+725,What is the full meaning of BER?,"Basic Energy Requirement, Basic Efficiency Required, Body Energy Requirement, Body Efficiency Required",A
+726,_____ founded the the Parbatya Chattagram Jana Samhati Samiti (PCJSS) as a united political organization of all native people and tribes in 1973.,,M. N. Larma
+727,Kuki-Chin National Front (KNF) is established by ______ in ___________ with an aim to create autonomous state for Bawm people with nine Upzilas of Rangamati and Bandarban districts.,,"Nathan Bawm, 2017"
+728,UPDF (democratic) was raised on      .,,15-Nov-17
+729,UPDF is raised in the yr of           .,,26-Dec-98
+730,The_____was re-estb in the name of ‘OP UTTORON’ to solve the CHT crisis mil through imposing mil mnvr.,,‘OP DABANAOL’
+731,Constr of Kaptai Dam for the Hydroelec Power Proj was completed in the yr of    .,,1962
+732,     meters fd of fire to be kept clear around any CHT camp.,,300
+733,Capsule Trg in the camps will be conducted for ________ in each trg cycle.,,15 days
+734,The spd boat operator must wear a     .,,Crash helmet
+735,"Possesion of illegal firearms will be dealt according to     of Arms Act, 1978",,19 (a).
+736,"One camp will have   bino, at least.",,2
+737,"In CI ops,     is the prime source of info collection.",,ptl
+738,"Chakma is one of the largest tribal gp residing in CHT along wiyh Marma, Tripura, Tanchangya etc. What is religion of the majority of the tribes residing in CHT?","Hinduism, Chistianity, Muslim, Buddhism",D
+739,During ‘Red Alert’ the ptl are kept in    NTM.,"20 min, 15 min, 10 min, 5 min",C
+740,When was Ministry of Chittagong Hill Tracts Affairs (MoCHTA) founded?,"5 Jul 1988, 2 Dec 1997, 15 may 1998, None of the above",A
+741,United People’s Democratic Front (UPDF) was raised on___.,"10 Feb 1998, 26 Dec 1998, 26 Feb 1998, 10 Dec 1998",B
+742,who is the present Chairman of Bangladesh Indigenous Peoples Forum (BIPF)?,"M.N. Larma, Shontu Larma, Bir Bahadur Ushay Singh, Ushaton Talukdar",B
+743,When was the District Council Act passed to creat three ties of local govt councils?,"1997, 1998, 1989, 1990",C
+744,Which of the fol is incorrect in regards to type of ptl in CHT?,"‘C’ Type ptl, composed of 10 men and comd by min a Cpl, ‘B’ Type ptl, composed of 20 men and comd by min a Sgt, ‘A’ Type ptl, composed of 30 men and comd by min a JCO, ‘A+’ Type ptl, composed of 50 men and comd by min an offr",D
+745,The present Chairman of CHT Dev Board is:,"Shantu Larma, Ashish Kumar Barua, Nabo Bikram Kishor Tripura, ndc, Bir Bahadur U Shwe Singh",C
+746,How many percentage of total tribal gp in CHT are the Chakmas?,"39%, 49%, 59%, 69%",C
+747,The purpose of            is to cause the enemy to reveal himself by returning fire or by moving.,,Speculative fire
+748,"The bold use of tk, exploiting all four characteristics to the full, reduces__________.",,Shock act.
+749,A _________ is taken up in the open country either in cir or box fmn.,,leaguer.
+750,"The arms of a tk in addition, provide a very significant deg       of     against the eff of nuclear wpn.",,Protection.
+751,Semi-auto loading sys uses       amm.,,Separately Charged.
+752,"Usually, out of 15 pers of a tp, 12 crews are distr in three tks and rest three remain in _________ of the sqn as res dvrs.",,A ech.
+753,"In case of tk tp, jockey means to change ___posn.",,Fire.
+754,        must be carried out by making best use of the grd.,,Mov.
+755,"During adv when the tp is not depl for act,        formation is used.",,line ahead.
+756,To __________ means to change fire posn.,,Jockey.
+757,A tk mov to hull down posn in order to engage the en with    .,,direct fire.
+758,Stowage capacity of T 59G DURJOY is ______rds.,,28
+759,"___________is an area in which armd unit or subunit conc for any length of time for rest, refit and maint.",,Har.
+760,Which fmn allows better con and greater flexibility of act to the tp ldr?,"Line ahead, One up, Line abreast, Two up",B
+761,Which one is incl in the principles of armr tac?,"Initiative, Conc, Econ of force, b and c, a and b",D
+762,Which armr fmn to be adopted when the contact with en is imminent? ,"Wedge, Diamond, Two up, One up",A
+763,A bound should enable a tk to:,"Dominate the grd ahead, Mnvr swiftly, Present a tgt while wdr, None of the above",A
+764,Which is not a method of mov? ,"Snake ptl, Caterpillar, Leapfrog, Diamond",D
+765,Deep fording of MBT-2000 is of:,"5 m, 1.4 m, 1.8 m, None of the above",C
+766,To provide visual and sound wng for various parameters in MBT-2000 which box is used?,"A-5, A-6, A-13, A-9",B
+767,2nd ech maint is reqr after ___________ motor hr of eng op.,"30-35, 50-60, 55-70, None of the above",B
+768,What are the aids of obsn to identify en tk? ,"The Eyes, Bino, Tell-Tale signs, All of the above",D
+769,Call sign for armr-inf coop:,"96B, 99, 95, 81",B
+770,What to do in 30 mins NTM?,"Change fuel filter, Bore sighting, Wpn cleaning, All of the above",A
+771,Which one is the least desirable method of attk comprising armr and inf?,"Attk on the same axis, Sp by fire only, Attk on Parallel axis, Attk on converging axis",B
+772,What is the cap of carousel mag of MBT-2000?,"28 rds, 22 rds, 24 rds, 26 rds",B
+773,Which one is not the task of tk tp in def?,"CT btl, C pen, C attk, Armr sweep",D
+774,Line fmn is adopted when?,"During final aslt of en, During adv, While xing defile, None of the above",A
+775,Which act is not carr out in assy A?,"C/C, Gather int, Fix ref pt for tgt indication, All of the above",B
+776,Which characteristic is considered to be vital to inculcate as a state of mind in armr comd at all levels? ,"Mobility, Fire Power, Flexibility, Shock Action",C
+777,"A critical asset, with its longest dimension extending upto    is known as area critical asset.",,1000 metres
+778,Normally the obsn are of an OP should not exceed    degrees..,,120
+779,        provide comm to HQ Arty Bde down to RHQ of arty units.,,Arty Bde Sig Coy of Div Sig Bn 
+780,The     is resp for org and con the bty CP.,,GPO (Gun Posn Offr)
+781,"An order directing, restraining or coordinating the fire of Air Def units which may or may not be under comd is called    .",,Con Order. 
+782,The detailed siting of an OP is usually left to the       . ,,Observer.
+783,The CO of Fd Arty regt is resp for estb a FSCC at    .,,Bde HQ
+784,"       of arty is concerned with its mov, depl and admin; whereas   in arty sense means con of fire by the issue of technical orders.",,"Comd, Con"
+785,ADA units provide sy from en air attk by destroying or    en ac and heli.,,Driving off.
+786,The Arty CO receives orders for depl from the Comd Arty or from the   when the Regt is UC of the Bde.,,Inf Bde Comd
+787,GPO must not select the gun posn outside of the alt sq without permission from    .,,2IC/BC.
+788,"In DS arty normally provides   ,     and      . ",,"Liaison, obsn and comm."
+789,"To facilitate effective application of fire power, comd of fire assets should be     .",,Centralized.
+790,The main function of MBRL is to provide long rng _____arty sp to sp fmn. ,,saturated. 
+791,An Arty rep should always accompany the Inf Bde and Bn Comd during their    . ,,recce. 
+792,"In an emg depl, one AD bty can provide route protection are _______ of route.",,6 KM
+793,"In case the dstn to are intersection pts of op is less than   of visibilityange, reduce the no of Ops and make the same aval for res pool of the CO.",,75 percent.
+794,A towed gun in a gun pit is easier to conceal and better protected than a      .,,SP gun. 
+795,One 122mm MBRL launching veh is cap of firing a salvo of ______rkt in 15 sec. ,,30
+796,GPO of fd arty bty should issue the gun prog to NOs-1 of the Gun at least     before first ser.,,30 min. 
+797,"_____,is the arty whose fire is aval to be switched from alt task by the auth which has right on their fire during attk to meet emg and engage impromptu tgts.",,Superimposed Arty.
+798,Guns are always laid (when not engaging any tgt) on the asg   .,,DF (SOS).
+799,       is an uneconomical way of accumulating res and should only be undertaken after careful consideration of all altn.,,Dumping.
+800,"________ is a plan made by inf or armr Comd advised by arty Comd to ut fire sp (arty, armr, inf wpns etc) aval to him for his op.",,Fire Sp Plan (FSP).
+801,_____ is the fire that aims at neutralizing en’s dir fire wpns which can engage aslt tps during attk or C attk.,,Covering Fire (CF).
+802,Tac HQ is estb by the DS Regt CO in order to:,"Coord fire sp of the regt., Provide cont op and admin instr to the regt, To maint liaison with sp arm comd, To estb comm with sp arms",B
+803,The policy as to whether ammo is to be dumped is made by    .,"Fmn Comd, Bde Comd, CO, None of the above",A
+804,Which one is the smallest arty fire unit that is administratively self-contained and designed to op indep?,"Arty bn, Arty bty, Arty gun sec, None of the above",B
+805,The tear-down op involves _______ veh simultaneously and this op is performed by 8 pers together.,"Three, Two, Four, Five",A
+806,During peacetime prac from pt of burst normaly safe dstn of 155mm Gun is.,"800m, 1000m, 600m, None of the above",B
+807,During war each of the arty bty Comds will wk with one of the Inf      . ,"Coy Comd, Bn Comd, Bde Comd, None of the above",B
+808,The safety dstn for 122 mm How T-83 is to be taken as:,"200m, 250m, 300m, 350m",B
+809,Which is normally estb at bde level under the con of the CO of the in DS fd regt ?,"FSCC, RCP, BCP, None of the above",A
+810,The call signs of Arty observer (BC of Fd Bty) on wrls net of other arms is:,"93, 94, 95, 96",D
+811,Rate of Fire of 122 mm WS-22 MLRS is       .,"20 rkts in 20 sec, 40 rkts in 20 sec, 30 rkts in 10 sec, 40 rkts in 10 sec",B
+812,The call sign of sr observer on wrls net of other arms is: ,"90 A, 92 A, 94 A, 96 A",D
+813,Each Armr regt is auth with    op tk (with ws) to be used by bty Comd and observer of the dir sp Bty:,"2, 3, 4, 5",C
+814,What are the grd threats against arty gun posn?,"Commandos, Heliborne/Para tps, Dismounted attk, Armr/Mech forces attk, All of the above",C
+815,Who receives the wngO ''Prep to Adv” from RHQ or from BC (if bty is acting indep) and passes it on to the guns and WL.,"AGPO, GPO, Bty SJCO, Bty BSM",B
+816,"In order to avoid disclosing the main posn to the en, the guns fire from a posn before the main posn is occu- known as:","Altn posn, Temp posn, Dummy posn, Readjusted posn",B
+817,      are useful means of deception in static condition. ,"Readjusted posn, Altn posn, Dummy posn, Temp posn",C
+818,"During active op, the Arty ammo holding should not be allowed to fall below which of the following levels at any stage?","30%, 40%, 50%, 60%",C
+819,Who is the auth for calling close DF?,"Coy Comd, Bn Comd, BC, Mor Pl Comd",B
+820,Which is not the principle on which AD sys wk:,"Detection, Integration, Ident, Engt Assessment",B
+821,Who will be the chairman of AD Committee?,"CAS, Chief of Air Staff, AD Bde Comd, GOC",B
+822,Eff rng for HIMAD AD sys is       ?,"Above 20 km, Above 50 km, Above 30 km, Above 60 km",C
+823,What is the max range of Trg-300 missile of TIGER MLRS?,"70 km, 100 km, 120 km, 150 km",C
+824,The smoke shoot is used to:,"Deceive the en, Blinding the en and screening the own tps, Harass the en, None of the above, All of the above",B
+825,Which of the factors mentioned bellow does not affect the planings of SAMs?.,"Method of Guidance, Reloading Time, Data tx sys, Mobility",D
+826,An arty unit placed at pri call provides      .,"Obsn, Liason, All of the above, None of the above",D
+827,"In gen terms, a fd coy should not be placed  _______ to a bde unless it is inevitable.",,UC
+828,The Engr sweeping team consists of min  ________ pers.,,5
+829,"The most common gp, unless op dictate otherwise, a fd coy Engr will be placed in     to the bde.",,INSPUCM
+830,A qtr set HPB can lay max     m floating br.,,91
+831,_______are reqr in obs to enable our tps to go in search of en.,,Gaps
+832,Hy rafts are constr as soon as the      line is cleared to cross the fol up bn in an aslt riv xing op.,,O -1
+833,Engrs’ primary task in rear area is likely to be maints of_____.,,L of C
+834,     of Div Engr Bn is empowered to make minor decision for CO in his absence at Div HQ.,,SO II (Plg).
+835,"      are those which must be specifically con at whatever level of comd, because they play a vital part in tac or strat plan. ",,Res dml
+836,Denial of the final wdr route is a tac op reqr close coop/ coord between engrs and       .,,covering tps
+837,Explosives are classified into      gps basing in their composn.,,three
+838,The auth to empl protective minefds is normally delegated to the _______________.,,Coy Comd
+839,"CO, Div Engr Bn acts as an    to the Div Comd.",,Engr adviser
+840,"Usually,        men are assigned to carr the Aslt boat M-2.",,10
+841,No one will normally be permitted to insp a misfired charge which was initiated elec until have elapsed.,"10 mins, 15 mins, 30 mins, None of the above",A
+842,"In expl handling,          will never be buried.","Primer, Detonators, Charges, None of the above",B
+843,When the Engr Bn or any of its elms are committed in an inf role it is divided into:,"A and B ech, A and F ech, B and F ech, B and C ech",C
+844,After the initial aslt has clr the _________ engr units will begin rafting & br ops,"O-1 line, O-2 line, O-3 line",A
+845,A dml which can be blown as soon as it is prep is called:,"Res dml, Prelim dml, Rd cratering, None of the above",B
+846,Mines gen consists of:,"Firing mechanism, Detonator, Booster charge, All of the above",D
+847,Minefd lane normally       yds wide.,"8, 50, 100, 20",A
+848,The burning rate of one ft safety fuse is:,"15-20 sec, 20-27 Sec, 27-33 Sec, None of the above",C
+849,The most common cause of accidental detonation are:,"Fire, Shock due to bursting of a HE proj close to the charge, Shock due to impact of solid proj, All of the above",D
+850,The min length of safety fuze to be used for any dml will be:,"12”, 15”, 18”, None of the above",C
+851,IEDs are constr with _____ basic components’.,"Three, Four, Five, Six",C
+852,Aerial rope way is constr:,"Across the gap, Plain land, Desert, None of the above",A
+853,"While siting camp, latrine and incinerators must be placed.","Down wind of the camp, Up wind of the camp, At slope, None of the above",A
+854,Which one of the below is a type of indirect obsn:,"Visual obsn - by line of sight, RADAR, Laser sighting and ranging, None of the above",B
+855,A Bomb Disposal team consists of:,"5 members, 6 members, 7 members, 8 members",B
+856,"If the size of the charge is 5000-10000 lbs, the no of pts of detonation should be:","1, 2, 3, 4",B
+857,"Denial or scorching the earth op, all fmns wk to a common plan which is coord at the top by:","Fmn comd, Op comd, E in C, None of the above",C
+858,Example of counter mob func of Engrs are:,"Minefd laying, Deception, Constr of airfds, Laying of brs, None of the above",A
+859,The process by which water is made drinkable also known as: ,"Sterilization, Clorification, Purification, Filtration",C
+860,The party for building sandbag walls one man should fill ________ sandbag per hr.,"60, 70, 80, 90",D
+861,When the boat mov towards the dir from which the wind blows is known as:,"Windward dir, Leeward dir, Angle dir, None of the above",A
+862,A gp of tps with 36 ORs is normally emp to clr an 8 yd lane to a depth of: ,"80 yd, 100 yd, 120 yd, 150 yd",C
+863,_________ minefds are areas of grd that are altered to give the same sign as a real minefd and thereby deceive the en.,"Def, barrier, Phony, Nuisance",C
+864,Trip wire is normally used with       .,"Anti-tk mine, Anti pers mine, Anti veh or rd mine, River mine",B
+865,Laying of deg mine fd is the responsibilities of:,"Inf, Engrs, Aslt pnr pl, None of the above",B
+866,Dml Gd Comd is usually an        offr.,"Engr, Ord, Inf, None",C
+867,"        Contains data for a locator, identifier or tracker that pt to a website or appl.",,QR code
+868,        is a set of simple rules designed for speaking on the radio sets disclosing the min info to the en.,,Voice procedure
+869,Inf def    and    should be primary means of comm.,,Line and radio relay
+870,      is a category of software which aims to steal pers or org  info.,,Spyware
+871,                 Is a sy measure designed to protect a comm sys against fraudulent tx.,,Authentication
+872,Storing and accessing data and prog over the Internet instead of own computer is called __    .,,Cloud computing 
+873,Freq rng of UHF is about     .,,300 MHz to 3 GHz
+874,"In voice procedure, CB Rep is called       .",,Bajropat
+875,Software that blocks unauth  access to a com or netwk while permitting auth comm is called     .,,Firewall
+876,"In voice procedure, Comds at all levels are called   .",,Ameer
+877,The sig comm link between a unit or HQ and its superior fmn is called        .,,Rear link
+878,    describes software which is embodied in hardware.,,Firmware
+879,"       is one of the simplest, most eff and most easily pro jamming sig.",,Spark
+880,"In connection to radio wave tx, FM stands for   .",,Freq Modulation
+881,,,
+882,,,
+883,,,
+884,,,
+885,,,
+886,,,
+887,,,
+888,,,
+889,,,
+890,,,
+891,,,
+892,,,
+893,,,
+894,,,
+895,,,
+896,,,
+897,,,
+898,,,
+899,,,
+900,,,
+901,,,
+902,,,
+903,,,
+904,,,
+905,,,
+906,,,
+907,,,
+908,,,
+909,,,
+910,,,
+911,,,
+912,,,
+913,,,
+914,,,
+915,,,
+916,,,
+917,,,
+918,,,
+919,,,
+920,,,
+921,,,
+922,,,
+923,,,
+924,,,
+925,,,
+926,,,
+927,,,
+928,,,
+929,,,
+930,,,
+931,,,
+932,,,
+933,,,
+934,,,
+935,,,
+936,,,
+937,,,
+938,,,
+939,,,
+940,,,
+941,,,
+942,,,
+943,,,
+944,,,
+945,,,
+946,,,
+947,,,
+948,,,
+949,,,
+950,,,
+951,,,
+952,,,
+953,,,
+954,,,
+955,,,
+956,,,
+957,,,
+958,,,
+959,,,
+960,,,
+961,,,
+962,,,
+963,,,
+964,,,
+965,,,
+966,,,
+967,,,
+968,,,
+969,,,
+970,,,
+971,,,
+972,,,
+973,,,
+974,,,
+975,,,
+976,,,
+977,,,
+978,,,
+979,,,
+980,,,
+981,,,
+982,,,
+983,,,
+984,,,
+985,,,
+986,,,
+987,,,
+988,,,
+989,,,
+990,,,
+991,,,
+992,,,
+993,,,
+994,,,
+995,,,
+996,,,
+997,,,
+998,,,
+999,,,
+1000,,,

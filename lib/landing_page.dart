@@ -33,7 +33,6 @@ class _LandingPageState extends State<LandingPage> {
     OffrsQues(),
     JCOQues(),
     NCOQues(),
-    PracAbbr(),
     Quiz()
   ];
   @override
@@ -63,7 +62,7 @@ class _LandingPageState extends State<LandingPage> {
                   AssetImage('assets/images/jco.png')), label: 'JCO'),
               NavigationDestination(icon: const ImageIcon(
                   AssetImage('assets/images/nco.png')), label: 'NCO'),
-              NavigationDestination(icon: Icon(Icons.engineering), label: 'PRAC'),
+
               NavigationDestination(icon: Icon(Icons.menu_book), label: 'QUIZ'),
 
             ],
