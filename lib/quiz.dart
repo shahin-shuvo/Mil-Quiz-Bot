@@ -34,7 +34,7 @@ class _QuizState extends State<Quiz> {
                             button: FilledButton(
                               style:  FilledButton.styleFrom(backgroundColor: Colors.amber),
                               onPressed: () {
-                                Navigator.push(context, MaterialPageRoute(builder: (context) =>  ExamScript(ques: 10, type: "abbr", isWrongVis: List.filled(10, false, growable: false))),);
+                                Navigator.push(context, MaterialPageRoute(builder: (context) =>  ExamScript(ques: 25, type: "offrs", isWrongVis: List.filled(25, false, growable: false))),);
                               },
                               child: const Text('Get Started', style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),),
                             ),
@@ -49,8 +49,7 @@ class _QuizState extends State<Quiz> {
                             button: FilledButton(
                                 style:  FilledButton.styleFrom(backgroundColor: Colors.amber),
                                 onPressed: () {
-                                  Navigator.push(context, MaterialPageRoute(builder: (context) => ExamScript(ques: 20, type: "abbr", isWrongVis: List.filled(20, false, growable: false))),);
-
+                                  Navigator.push(context, MaterialPageRoute(builder: (context) => ExamScript(ques: 50, type: "offrs", isWrongVis: List.filled(50, false, growable: false))),);
                                 }, child: const Text('Get Started', style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),)),
                           )
                       ),

@@ -20,7 +20,7 @@ class ExamScript extends StatefulWidget {
 }
 
 class _ExamScriptState extends State<ExamScript> {
-  int totalAbbr = 1770;
+  int totalQues = 870;
   List finalQues = [];
   List quesIndex = [];
   List quesSet = [];
@@ -37,7 +37,7 @@ class _ExamScriptState extends State<ExamScript> {
   List TextCtrl = [];
   TextEditingController scoreFd = new TextEditingController();
   void createQues()  async {
-    final _rawData =  await rootBundle.loadString("assets/data/abbr_sheet.csv");
+    final _rawData =  await rootBundle.loadString("assets/data/offrs_ques.csv");
     List<List<dynamic>> _listData =
     const CsvToListConverter().convert(_rawData);
     data = _listData;
@@ -55,7 +55,7 @@ class _ExamScriptState extends State<ExamScript> {
 
     int i=0;
     while(quesIndex.length != widget.ques){
-      int random_number = random.nextInt(totalAbbr);
+      int random_number = random.nextInt(totalQues);
       if (!quesIndex.contains(random_number)) {
         quesIndex.add(random_number);
         quesSet.add(data[quesIndex[i++]]);
@@ -63,15 +63,6 @@ class _ExamScriptState extends State<ExamScript> {
       }
     }
 
-  if(widget.type == "deabbr"){
-
-      for(int i = 0; i<widget.ques; i++){
-        String a = quesSet[i][0];
-        String b = quesSet[i][1];
-        quesSet[i][0]= b;
-        quesSet[i][1] = a;
-      }
-    }
     });
   }
 
@@ -118,13 +109,10 @@ class _ExamScriptState extends State<ExamScript> {
                 child:
                 RichText(
                   text: TextSpan(
-                    text: '   WRITE ',
+                    text: '   ANS ',
                     style:  TextStyle(fontSize: 16, color: Colors.white, fontWeight: FontWeight.normal),
                     children: <TextSpan>[
-                      TextSpan(text: '$typeHd', style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white)),
-                      TextSpan(text: ' OF FOL '),
-                      TextSpan(text: '$quesnumHd', style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white)),
-                      TextSpan(text: ' WORDS    '),
+                      TextSpan(text: ' THE FOL QUES  '),
                     ],
                   ),
                 )
@@ -140,9 +128,19 @@ class _ExamScriptState extends State<ExamScript> {
                       margin: const EdgeInsets.symmetric(vertical: 8),
                       child: ListTile(
                         leading: Text('$cnt',  style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold) ),
-                        title: Text(quesSet[index][0], style: TextStyle(fontWeight: FontWeight.bold),),
+                        title: Text(quesSet[index][1].replaceAll(RegExp('  '), '_'), style: TextStyle(fontWeight: FontWeight.bold),),
                         subtitle: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
+                            Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                for ( var i in optionList(quesSet[index][2]) )
+                                  Text(i.toString().split(new RegExp(r'(?:\r?\n|\r)'))
+                                      .where((s) => s.trim().length != 0)
+                                      .join('\n'), style: const TextStyle( color: Colors.green, fontWeight: FontWeight.bold)),
+                              ],
+                            ),
                             TextField(
                               enabled: isInTime,
                               controller: TextCtrl[index],
@@ -156,7 +154,7 @@ class _ExamScriptState extends State<ExamScript> {
                             ),
                             Visibility( visible: widget.isWrongVis[index],
                                 child:
-                                Text("Correct Ans: "+ quesSet[index][1], style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.red)),
+                                Text("Correct Ans: "+ quesSet[index][3].toString(), style: TextStyle(fontSize: 12, fontWeight: FontWeight.bold, color: Colors.red)),
                             ),
 
                           ],
@@ -221,10 +219,10 @@ class _ExamScriptState extends State<ExamScript> {
                         if (isSubmit==1) {
                           for (int i = 0; i < quesnumHd; i++) {
                             int gotAns= 0;
-                            List ans= quesSet[i][1].split(RegExp(r'[;/,]'));
+                            List ans= quesSet[i][3].split(RegExp(r'[;/,]'));
 
                             for(int j=0; j<ans.length;j++) {
-                              if (ans[j].trim() == TextCtrl[i].text.trim()) {
+                              if (ans[j].trim() == TextCtrl[i].text.trim() || ans[j].trim() == TextCtrl[i].text.trim()+".") {
                                 score++;
                                 TextCtrl[i].text = TextCtrl[i].text + "   ✅";
                                 gotAns= 1;
@@ -242,7 +240,7 @@ class _ExamScriptState extends State<ExamScript> {
                         setState(() {
                           scoreFd.text = score.toString();
                           isInTime = false;
-                          isSubmit++;
+                          isSubmit=0;
                           CountDownTimer = 0;
                         });
 
@@ -259,6 +257,20 @@ class _ExamScriptState extends State<ExamScript> {
       ),
     );
   }
+
+  List optionList(String options) {
+    final splitted = options.split(',');
+    List  list = [];
+    int count = 0;
+    if(splitted.length!=1)
+      for(var i in splitted){
+        list.add(String.fromCharCode(65+count)+". "+ i.trim()+"\n");
+        count++;
+      }
+
+    return list;
+  }
 }
+
 
 
